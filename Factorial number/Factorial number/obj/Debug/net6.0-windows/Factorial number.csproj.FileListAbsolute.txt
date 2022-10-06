@@ -1,0 +1,17 @@
+C:\Users\tomps\source\repos\Factorial number\Factorial number\bin\Debug\net6.0-windows\Factorial number.exe
+C:\Users\tomps\source\repos\Factorial number\Factorial number\bin\Debug\net6.0-windows\Factorial number.deps.json
+C:\Users\tomps\source\repos\Factorial number\Factorial number\bin\Debug\net6.0-windows\Factorial number.runtimeconfig.json
+C:\Users\tomps\source\repos\Factorial number\Factorial number\bin\Debug\net6.0-windows\Factorial number.dll
+C:\Users\tomps\source\repos\Factorial number\Factorial number\bin\Debug\net6.0-windows\Factorial number.pdb
+C:\Users\tomps\source\repos\Factorial number\Factorial number\obj\Debug\net6.0-windows\Factorial number.csproj.AssemblyReference.cache
+C:\Users\tomps\source\repos\Factorial number\Factorial number\obj\Debug\net6.0-windows\Factorial_number.Form1.resources
+C:\Users\tomps\source\repos\Factorial number\Factorial number\obj\Debug\net6.0-windows\Factorial number.csproj.GenerateResource.cache
+C:\Users\tomps\source\repos\Factorial number\Factorial number\obj\Debug\net6.0-windows\Factorial number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomps\source\repos\Factorial number\Factorial number\obj\Debug\net6.0-windows\Factorial number.AssemblyInfoInputs.cache
+C:\Users\tomps\source\repos\Factorial number\Factorial number\obj\Debug\net6.0-windows\Factorial number.AssemblyInfo.cs
+C:\Users\tomps\source\repos\Factorial number\Factorial number\obj\Debug\net6.0-windows\Factorial number.csproj.CoreCompileInputs.cache
+C:\Users\tomps\source\repos\Factorial number\Factorial number\obj\Debug\net6.0-windows\Factorial number.dll
+C:\Users\tomps\source\repos\Factorial number\Factorial number\obj\Debug\net6.0-windows\refint\Factorial number.dll
+C:\Users\tomps\source\repos\Factorial number\Factorial number\obj\Debug\net6.0-windows\Factorial number.pdb
+C:\Users\tomps\source\repos\Factorial number\Factorial number\obj\Debug\net6.0-windows\Factorial number.genruntimeconfig.cache
+C:\Users\tomps\source\repos\Factorial number\Factorial number\obj\Debug\net6.0-windows\ref\Factorial number.dll
