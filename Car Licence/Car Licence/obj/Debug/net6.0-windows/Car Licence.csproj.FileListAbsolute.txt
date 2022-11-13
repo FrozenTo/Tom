@@ -1,0 +1,17 @@
+C:\Users\tomps\source\repos\Car Licence\Car Licence\bin\Debug\net6.0-windows\Car Licence.exe
+C:\Users\tomps\source\repos\Car Licence\Car Licence\bin\Debug\net6.0-windows\Car Licence.deps.json
+C:\Users\tomps\source\repos\Car Licence\Car Licence\bin\Debug\net6.0-windows\Car Licence.runtimeconfig.json
+C:\Users\tomps\source\repos\Car Licence\Car Licence\bin\Debug\net6.0-windows\Car Licence.dll
+C:\Users\tomps\source\repos\Car Licence\Car Licence\bin\Debug\net6.0-windows\Car Licence.pdb
+C:\Users\tomps\source\repos\Car Licence\Car Licence\obj\Debug\net6.0-windows\Car Licence.csproj.AssemblyReference.cache
+C:\Users\tomps\source\repos\Car Licence\Car Licence\obj\Debug\net6.0-windows\Car_Licence.Form1.resources
+C:\Users\tomps\source\repos\Car Licence\Car Licence\obj\Debug\net6.0-windows\Car Licence.csproj.GenerateResource.cache
+C:\Users\tomps\source\repos\Car Licence\Car Licence\obj\Debug\net6.0-windows\Car Licence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomps\source\repos\Car Licence\Car Licence\obj\Debug\net6.0-windows\Car Licence.AssemblyInfoInputs.cache
+C:\Users\tomps\source\repos\Car Licence\Car Licence\obj\Debug\net6.0-windows\Car Licence.AssemblyInfo.cs
+C:\Users\tomps\source\repos\Car Licence\Car Licence\obj\Debug\net6.0-windows\Car Licence.csproj.CoreCompileInputs.cache
+C:\Users\tomps\source\repos\Car Licence\Car Licence\obj\Debug\net6.0-windows\Car Licence.dll
+C:\Users\tomps\source\repos\Car Licence\Car Licence\obj\Debug\net6.0-windows\refint\Car Licence.dll
+C:\Users\tomps\source\repos\Car Licence\Car Licence\obj\Debug\net6.0-windows\Car Licence.pdb
+C:\Users\tomps\source\repos\Car Licence\Car Licence\obj\Debug\net6.0-windows\Car Licence.genruntimeconfig.cache
+C:\Users\tomps\source\repos\Car Licence\Car Licence\obj\Debug\net6.0-windows\ref\Car Licence.dll
