@@ -1,0 +1,17 @@
+C:\Users\tomps\source\repos\Employees\Employees\obj\Debug\net6.0-windows\Employees.csproj.AssemblyReference.cache
+C:\Users\tomps\source\repos\Employees\Employees\obj\Debug\net6.0-windows\Employees.Form1.resources
+C:\Users\tomps\source\repos\Employees\Employees\obj\Debug\net6.0-windows\Employees.csproj.GenerateResource.cache
+C:\Users\tomps\source\repos\Employees\Employees\obj\Debug\net6.0-windows\Employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomps\source\repos\Employees\Employees\obj\Debug\net6.0-windows\Employees.AssemblyInfoInputs.cache
+C:\Users\tomps\source\repos\Employees\Employees\obj\Debug\net6.0-windows\Employees.AssemblyInfo.cs
+C:\Users\tomps\source\repos\Employees\Employees\obj\Debug\net6.0-windows\Employees.csproj.CoreCompileInputs.cache
+C:\Users\tomps\source\repos\Employees\Employees\bin\Debug\net6.0-windows\Employees.exe
+C:\Users\tomps\source\repos\Employees\Employees\bin\Debug\net6.0-windows\Employees.deps.json
+C:\Users\tomps\source\repos\Employees\Employees\bin\Debug\net6.0-windows\Employees.runtimeconfig.json
+C:\Users\tomps\source\repos\Employees\Employees\bin\Debug\net6.0-windows\Employees.dll
+C:\Users\tomps\source\repos\Employees\Employees\bin\Debug\net6.0-windows\Employees.pdb
+C:\Users\tomps\source\repos\Employees\Employees\obj\Debug\net6.0-windows\Employees.dll
+C:\Users\tomps\source\repos\Employees\Employees\obj\Debug\net6.0-windows\refint\Employees.dll
+C:\Users\tomps\source\repos\Employees\Employees\obj\Debug\net6.0-windows\Employees.pdb
+C:\Users\tomps\source\repos\Employees\Employees\obj\Debug\net6.0-windows\Employees.genruntimeconfig.cache
+C:\Users\tomps\source\repos\Employees\Employees\obj\Debug\net6.0-windows\ref\Employees.dll
